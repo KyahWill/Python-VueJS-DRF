@@ -1,0 +1,9 @@
+.vscode
+
+
+env
+
+FirstDjangoAPI/onlinestore/uploads
+FirstDjangoAPI/onlinestore/products/__pycache__
+FirstDjangoAPI/onlinestore/products/migrations/__pycache__
+FirstDjangoAPI/onlinestore/onlinestore/__pycache__
